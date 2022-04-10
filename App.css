@@ -1,0 +1,13 @@
+ .head{
+   width: 20%;
+   text-align: center;
+   margin: auto;
+   border:2px solid red;
+ }
+
+  .red{
+    color: red;
+  }
+  .green{
+    color: teal;
+  }
